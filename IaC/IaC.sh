@@ -1,14 +1,14 @@
 sudo rm -rf /publico /adm /ven /sec
 pause
-sudo userdel -r carlos 
-sudo userdel -r maria
-sudo userdel -r joao
-sudo userdel -r debora
-sudo userdel -r sebastiana
-sudo userdel -r roberto
-sudo userdel -r josefina
-sudo userdel -r amanda
-sudo userdel -r rogerio
+sudo userdel carlos 
+sudo userdel maria
+sudo userdel joao
+sudo userdel debora
+sudo userdel sebastiana
+sudo userdel roberto
+sudo userdel josefina
+sudo userdel amanda
+sudo userdel rogerio
 sudo groupdel GRP_ADM 
 sudo groupdel GRP_VEN 
 sudo groupdel GRP_SEC
